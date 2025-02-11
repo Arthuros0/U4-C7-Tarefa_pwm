@@ -22,6 +22,13 @@ A atividade propõe o controle de um servomotor através do módulo PWM do RP204
 
 4. Utilizar a ferramenta BitDogLab para testar o código em um LED RGB na GPIO 12 e descrever a observação.
 
+  ## **Vídeo de Demonstração do Projeto**
+Confira a demonstração da tarefa clicando no ícone abaixo:
+
+<a href="https://youtu.be/ztjw6JRl9bY">
+  <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube" />
+</a>
+
 ### Tecnologias Utilizadas
 
 - Raspberry Pi Pico W
